@@ -4,7 +4,7 @@ This project was made using IntelliJ IDEA Community Edition, so downloading the 
 The program is based on the GUIDO music notation (https://guidodoc.grame.fr/), a text-based language for representing sheet music. 
 I used a recursive-descent parser to recognize notes within the GUIDO language and transpose each note by a given number of half steps up or down.
 
-Click "Download Zip" to download the Music project.
+Click "Code" and then "Download Zip" to download the Music project.
 
 src folder: stores all the relevant classes for transposing sheet music
 
