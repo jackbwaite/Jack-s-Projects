@@ -6,10 +6,12 @@ I used a recursive-descent parser to recognize notes within the GUIDO language a
 
 Click "Code" and then "Download Zip" to download the Music project.
 
-src folder: stores all the relevant classes for transposing sheet music
+src folder: stores all the relevant classes for transposing sheet music (mark as Sources Root)
 
-test folder: contains classes for running tests of certain unique cases and full pieces of sheet music
+test folder: contains classes for running tests of certain unique cases and full pieces of sheet music (mark directory as Test Sources Root)
 
-resources folder: contains text files to use when running the tests
+resources folder: contains text files to use when running the tests (mark directory as Test Resources Root)
+
+If using IntelliJ, be sure to add JUnit4 and JUnit5.4 to classpath
 
 See the comments within each Class for more specific information. You can reach me at jackbwaite@gmail.com with questions.
