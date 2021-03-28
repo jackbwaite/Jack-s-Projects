@@ -1,0 +1,18 @@
+{
+    [
+        a a& a#
+        b b& b#
+        c c& c#
+        d d& d#
+        e e& e#
+        f f& f#
+        g g& g#
+        a## a&&
+        b## b&&
+        c## c&&
+        d## d&&
+        e## e&&
+        f## f&&
+        g## g&&
+    ]
+}

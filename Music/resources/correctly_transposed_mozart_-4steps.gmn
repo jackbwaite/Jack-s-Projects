@@ -1,0 +1,1 @@
+{[\clef<"g"> \meter<"C"> \key<"F"> c2/2 a1/2 b&1/4. d2/8 g1/8 b&1 e1 g1 f1/4 {c1,e1} {b&0,d1} {a0,c1} {a0/4.,c1} {c1/16,e1} {b&0,d1} {a0/4,c1} ],[\clef<"g"> \meter<"C"> \key<"F"> f0/8 c1 a0 c1 f0 e&1 c1 e&1 f0 f1 d1 f1 b&0 d1 g0 b&0 a0/4 _ _/2 _/4 \clef<"f"> b&-1 f0 f-1 ]}

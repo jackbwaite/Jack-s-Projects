@@ -1,0 +1,19 @@
+{
+    [
+		\clef<"g"> \meter<"C"> \key<"A">
+
+		e2/2 c#/2
+		d/4. f#/8 b1/8 d2 g#1 b
+		a/4 {e, g#} {d, f#} {c#, e}
+		{c#/4., e} {e/16, g#} {d, f#} {c#/4, e}
+	],
+	
+	[
+		\clef<"g"> \meter<"C"> \key<"A">
+
+		a0/8 e1 c# e a0 g1 e g
+		a0 a1 f# a d f# b0 d1
+		c#/4 _ _/2
+		_/4 \clef<"f"> d0 a a-1
+	]
+}
